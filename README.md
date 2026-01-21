@@ -1,12 +1,16 @@
 Institutional AI Presence & the Emergence of Enterprise Cognitive Workforces
 
+
 A Green Paper
+
 Ellerslie Luxury Living (ELL)
 Date: January 2026
 Status: Public Green Paper
 Audience: Platform architects, enterprise leaders, AI governance practitioners
- 
+
+
 Executive Summary
+
 Advances in large language models, real-time communication platforms, and identity technologies have created the conditions for a new class of enterprise capability: non-embodied, institution-governed cognitive workforces.
 While public attention has focused on consumer chatbots, synthetic companions, and humanoid robotics, these approaches introduce significant ethical, psychological, and reputational risks when deployed without governance.
 This Green Paper outlines an alternative trajectory:
@@ -148,6 +152,7 @@ This Green Paper is intended as a reference contribution to that emerging discou
  
 
 Appendix
+
 Glossary
 •	Institutional AI Presence: AI systems representing an organization within explicit authority bounds.
 •	Cognitive Workforce: Non-embodied AI agents performing knowledge work under governance.
@@ -155,13 +160,3 @@ Glossary
  
 © 2026 Ellerslie Luxury Living. All rights reserved.
  
-Next (Practical) Steps for You
-1.	Create a GitHub repository (public)
-2.	Add this file as index.md
-3.	Enable GitHub Pages
-4.	(Optional) Add a minimal README.md
-5.	Share the Pages URL once, quietly
-
-No call-to-action.
-No announcement campaign.
-Just presence.
