@@ -46,15 +46,15 @@ Institutions require AI systems that:
  
 2. Design Philosophy
 ELL’s approach is grounded in five non-negotiable principles:
-1.	Institution Over Individual
+2.1.	Institution Over Individual
 AI agents represent an organization, not a person.
-2.	No Emotional Substitution
+2.2.	No Emotional Substitution
 Systems explicitly refuse intimacy, dependency, or relational continuity.
-3.	Static Identity, Evolving Reasoning
+2.3.	Static Identity, Evolving Reasoning
 Cognitive capability may improve; authority and persona do not.
-4.	Zero Relational Memory
+2.4.	Zero Relational Memory
 No personal histories, familiarity, or longitudinal emotional context.
-5.	Explicit Limits and Escalation
+2.5.	Explicit Limits and Escalation
 Declining and escalation are first-class behaviors.
 These principles align with enterprise governance expectations and trust-centric platform standards.
  
@@ -151,7 +151,7 @@ Ellerslie Luxury Living’s work demonstrates that advanced AI systems can be de
 This Green Paper is intended as a reference contribution to that emerging discourse.
  
 
-Appendix
+Appendix :
 
 Glossary
 •	Institutional AI Presence: AI systems representing an organization within explicit authority bounds.
