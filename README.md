@@ -93,7 +93,6 @@ These principles align with enterprise governance expectations and trust-centric
  
 4. Interaction Model
 All interactions follow a scripted + guardrailed model:
-
 •	Deterministic entry and exit conditions
 •	Predefined refusal language
 •	Neutral, professional tone
