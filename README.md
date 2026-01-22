@@ -10,15 +10,15 @@
 
 ## Executive Summary
 
-Advances in large language models, real-time communication platforms, and identity technologies have created the conditions for a new class of enterprise capability: **non-embodied, institution-governed cognitive workforces**.
+Advances in large language models, real-time communication platforms and identity technologies have created the conditions for a new class of enterprise capability: **non-embodied, institution-governed cognitive workforces**.
 
-While public attention has focused on consumer chatbots, synthetic companions, and humanoid robotics, these approaches introduce significant ethical, psychological, and reputational risks when deployed without governance.
+While public attention has focused on consumer chatbots, synthetic companions and humanoid robotics, these approaches introduce significant ethical, psychological and reputational risks when deployed without governance.
 
 This Green Paper outlines an alternative trajectory:
 
-> **Institutional AI Presence** — role-bound, non-relational, accountable AI agents operating through trusted communication surfaces and governed by explicit authority, memory, and escalation frameworks.
+> **Institutional AI Presence** — role-bound, non-relational, accountable AI agents operating through trusted communication surfaces and governed by explicit authority, memory and escalation frameworks.
 
-Ellerslie Luxury Living (ELL) presents a reference architecture and pilot use case demonstrating how such systems can be deployed **conservatively, safely, and at enterprise scale**.
+Ellerslie Luxury Living (ELL) presents a reference architecture and pilot use case demonstrating how such systems can be deployed **conservatively, safely and at enterprise scale**.
 
 ---
 
@@ -33,9 +33,9 @@ Recent years have seen rapid progress in:
 - Real-time conversational interfaces  
 - Agentic and tool-augmented AI systems  
 
-Concurrently, ungoverned applications — including emotional companions, digital personas, and posthumous simulations — have highlighted the risks of deploying AI presence without institutional constraints.
+Concurrently, ungoverned applications, including emotional companions, digital personas, and posthumous simulations, have highlighted the risks of deploying AI presence without institutional constraints.
 
-The challenge is no longer technical capability, but **trustworthy integration**.
+The challenge is no longer technical capability but **trustworthy integration**.
 
 ---
 
@@ -66,13 +66,13 @@ ELL’s approach is grounded in five **non-negotiable principles**:
    AI agents represent an organization, not a person.
 
 2. **No Emotional Substitution**  
-   Systems explicitly refuse intimacy, dependency, or relational continuity.
+   Systems explicitly refuse intimacy, dependency or relational continuity.
 
 3. **Static Identity, Evolving Reasoning**  
    Cognitive capability may improve; authority and persona do not.
 
 4. **Zero Relational Memory**  
-   No personal histories, familiarity, or longitudinal emotional context.
+   No personal histories, familiarity or longitudinal emotional context.
 
 5. **Explicit Limits and Escalation**  
    Declining and escalation are first-class behaviors.
@@ -126,7 +126,7 @@ All interactions follow a **scripted + guardrailed model**:
 - No adaptive persona softening  
 - Auditable conversational records  
 
-This ensures **predictability, defensibility, and institutional safety**.
+This ensures **predictability, defensibility and institutional safety**.
 
 ---
 
@@ -155,7 +155,7 @@ The system acts as a **pre-human filter**, not a decision authority.
 
 ELL’s architecture anticipates the use of **trust-elevating communication environments** — synchronous, identity-anchored, consent-driven interfaces traditionally reserved for high-trust interactions.
 
-Such surfaces impose higher behavioral expectations and discourage misuse, emotional manipulation, or persona drift.
+Such surfaces impose higher behavioral expectations and discourage misuse, emotional manipulation or persona drift.
 
 ---
 
@@ -237,7 +237,7 @@ This Green Paper is intended as a **reference contribution** to that emerging di
   Non-embodied AI agents performing knowledge work under governance.
 
 - **Trust Surface**  
-  A communication medium that implies identity, consent, and accountability.
+  A communication medium that implies identity, consent and accountability.
 
 ---
 
