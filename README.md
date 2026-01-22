@@ -116,3 +116,131 @@ These principles align with enterprise governance expectations and trust-centric
 
 ---
 
+## 4. Interaction Model
+
+All interactions follow a **scripted + guardrailed model**:
+
+- Deterministic entry and exit conditions  
+- Predefined refusal language  
+- Neutral, professional tone  
+- No adaptive persona softening  
+- Auditable conversational records  
+
+This ensures **predictability, defensibility, and institutional safety**.
+
+---
+
+## 5. Pilot Use Case: Prospective GP Screening
+
+ELL’s initial deployment focuses on **preliminary General Partner (GP) screening**.
+
+### Purpose
+
+- Assess philosophical alignment  
+- Extract signal for human decision-makers  
+- Reduce engagement overhead  
+
+### Explicit Non-Functions
+
+- No investment decisions  
+- No commitments  
+- No personal opinions  
+- No rapport-building behavior  
+
+The system acts as a **pre-human filter**, not a decision authority.
+
+---
+
+## 6. Trusted Communication Surfaces
+
+ELL’s architecture anticipates the use of **trust-elevating communication environments** — synchronous, identity-anchored, consent-driven interfaces traditionally reserved for high-trust interactions.
+
+Such surfaces impose higher behavioral expectations and discourage misuse, emotional manipulation, or persona drift.
+
+---
+
+## 7. Risk Analysis
+
+### Key Risks Identified
+
+- Over-attribution of agency  
+- Persona drift  
+- Emotional dependency  
+- Reputational harm  
+
+### Mitigations
+
+- Hard authority ceilings  
+- Non-learning interaction layer  
+- Explicit refusal patterns  
+- Human escalation protocols  
+- Continuous internal review  
+
+ELL optimizes for **boring reliability over expressive novelty**.
+
+---
+
+## 8. Ethical and Regulatory Alignment
+
+This model aligns with:
+
+- Enterprise AI governance frameworks  
+- Data minimization principles  
+- Psychological safety considerations  
+- Emerging AI accountability norms  
+
+The architecture explicitly excludes:
+
+- Grief simulation  
+- Posthumous personas  
+- Emotional substitution  
+- Personal data accumulation  
+
+---
+
+## 9. Strategic Implications
+
+ELL asserts that:
+
+- Institutional AI presence will precede consumer AI presence  
+- Cognitive workforces will scale faster than physical robotics  
+- Trust surfaces will matter more than model size  
+- Governance will be the primary differentiator  
+
+Organizations that fail to address these dimensions risk **reputational and regulatory backlash**.
+
+---
+
+## 10. Conclusion
+
+The future of AI deployment will be determined **less by capability and more by constraint**.
+
+Ellerslie Luxury Living’s work demonstrates that advanced AI systems can be deployed:
+
+- Conservatively  
+- Transparently  
+- Institutionally  
+- Without eroding trust  
+
+This Green Paper is intended as a **reference contribution** to that emerging discourse.
+
+---
+
+## Appendix
+
+### Glossary
+
+- **Institutional AI Presence**  
+  AI systems representing an organization within explicit authority bounds.
+
+- **Cognitive Workforce**  
+  Non-embodied AI agents performing knowledge work under governance.
+
+- **Trust Surface**  
+  A communication medium that implies identity, consent, and accountability.
+
+---
+
+© 2026 Ellerslie Luxury Living. All rights reserved.
+
+---
