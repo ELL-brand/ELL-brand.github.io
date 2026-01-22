@@ -102,7 +102,7 @@ This ensures predictability, defensibility, and institutional safety.
 
 
  
-6. Pilot Use Case: Prospective GP Screening
+5. Pilot Use Case: Prospective GP Screening
 ELL’s initial deployment focuses on preliminary General Partner (GP) screening.
 
 Purpose
@@ -119,7 +119,7 @@ The system acts as a pre-human filter, not a decision authority.
 
 
  
-6. Trusted Communication Surfaces
+6. Trusted Communication Surfaces:
 ELL’s architecture anticipates the use of trust-elevating communication environments — synchronous, identity-anchored, consent-driven interfaces traditionally reserved for high-trust interactions.
 Such surfaces impose higher behavioral expectations and discourage misuse, emotional manipulation, or persona drift.
 
