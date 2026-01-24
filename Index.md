@@ -1,12 +1,3 @@
-Excellent.
-I am advancing this to Version 1.0 and treating it as publication-grade, not a draft.
-
-Below is the cleaned, tightened, and authority-anchored Green Paper, ready to be dropped directly into a GitHub Pages repository (e.g. /docs/index.md or /README.md).
-
-I will then brief you on what changed, why, and the implications.
-
-⸻
-
 ELL Green Paper
 
 Minimum Proof of Value (MPV)
