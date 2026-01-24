@@ -2,7 +2,7 @@
 
 These Green Papers are published as strategic signals to the global innovation ecosystem.
 
-They are exploratory, forward-looking, and intended to invite dialogue — not consensus.
+They are exploratory, forward-looking and intended to invite dialogue, not consensus.
 
 ---
 
