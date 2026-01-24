@@ -13,7 +13,7 @@ They are exploratory, forward-looking and intended to invite dialogue, not conse
   👉 [Read](./ELL001.md/)
 
 - **Green Paper 002**  
-  *Minimum Proof of Value (MPV) vs MVP*  
+  *Minimum Proof of Value (MPV) vs MVP 
   👉 [Read](./ELL002.md/)
 
 ---
